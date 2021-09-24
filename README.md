@@ -1,1 +1,1 @@
-# shopify-theme
+# KIT London shopify-theme
